@@ -1,0 +1,12 @@
+[submodule "FlightsAndSearch"]
+	path = FlightsAndSearch
+	url = https://github.com/arsalanans47/flight_and_search_service.git
+[submodule "AuthService"]
+	path = AuthService
+	url = https://github.com/arsalanans47/Auth_Service.git
+[submodule "BookingService"]
+	path = BookingService
+	url = https://github.com/arsalanans47/Airplane_Booking_Service.git
+[submodule "ReminderService"]
+	path = ReminderService
+	url = https://github.com/arsalanans47/ReminderService.git
