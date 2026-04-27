@@ -10,3 +10,6 @@
 [submodule "ReminderService"]
 	path = ReminderService
 	url = https://github.com/arsalanans47/ReminderService.git
+[submodule "API_Gateway"]
+	path = API_Gateway
+	url = https://github.com/arsalanans47/airline_project_API_Gateway.git
